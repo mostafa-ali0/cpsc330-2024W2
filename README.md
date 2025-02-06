@@ -36,6 +36,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 - Yan Zeng
 - Alain Zhiyanov
 - Mahsa Zarei
+- Felix Fu
 
 
 
