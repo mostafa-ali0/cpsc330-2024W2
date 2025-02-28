@@ -164,3 +164,5 @@ lectures/tutorials/04_Hyperparameter_optimization_solution.ipynb
 .DS_Store
 .DS_Store
 lectures/.DS_Store
+lectures/tutorials/06_Ensembles_Solution.ipynb
+lectures/data/heart.csv
