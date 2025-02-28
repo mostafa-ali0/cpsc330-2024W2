@@ -1,0 +1,21 @@
+overfitting -> high variance
+underfitting -> high bias
+
+DecisonTree -> more depth more complex model
+
+smaller k -> overfitting
+larger k -> underfitting
+
+knn suffers if there are many irrelevan features bcz it weighs all features equally and calc distance
+
+svm rbf is like weighted knn, knn does no work in fit. svm rbf only stores key samples that are useful
+for prediction. they use rbf (radial basis function) instead of euclideian distance to measure closeness
+
+knn stores all eg
+svm rbf store key samples -> support vectors/key egs  gets decided during fit 
+
+accuracy is misleading when you have class imbalance 
+
+recall is going to be higher if you decrease prediction threshold
+
+Random trees: trees have to be slightly diff to give diff results, there should be some level of randomness
