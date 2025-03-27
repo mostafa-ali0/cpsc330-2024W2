@@ -73,9 +73,8 @@ Usually the homework assignments will be due on Mondays (except next week) and w
 | hw5            | Mar 10, 11:59 pm      | [GitHub repo](https://github.com/new?template_name=hw5&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/23876) |
 | hw6            | Mar 17, 11:59 pm | [GitHub repo](https://github.com/new?template_name=hw6&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/23876) |
 | **Midterm 2**  | Mar 19-21  | PrairieLearn (CBTF, in person)                                                     | PrairieLearn (CBTF, in person)                        |
-| hw7            | Mar 24, 11:59 pm | [GitHub repo](https://github.com/new?template_name=hw7&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/23876) |
-| hw8            | Mar 31, 11:59 pm | [GitHub repo] | [Gradescope](https://www.gradescope.ca/courses/23876) |
-| hw9            | Apr 07, 11:59 pm | [GitHub repo] | [Gradescope](https://www.gradescope.ca/courses/23876) |
+| hw7            | Mar 26, 11:59 pm | [GitHub repo](https://github.com/new?template_name=hw7&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/23876) |
+| hw8            | Apr 07, 11:59 pm | [GitHub repo](https://github.com/new?template_name=hw8&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/23876) |
 | **Final exam** | TBA                   | PrairieLearn (CBTF, in person)                                                           | PrairieLearn (CBTF, in person)                              |
 
 ## Lecture schedule (tentative)
@@ -112,8 +111,8 @@ This course will be run in a semi flipped classroom format. There will be pre-wa
 | Mar 25 |   Neural networks and computer vision | |   less depth |
 | Mar 27 | Time series data | (Optional) [Humour: The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) | new |
 | Apr 1 | Survival analysis | 📹 (Optional but highly recommended)[Calling Bullshit 4.1: Right Censoring](https://www.youtube.com/watch?v=ITWQ5psx9Sw)|   new |
-| Apr 3 | Communication | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
-| Apr 8  |  Ethics |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
+| Apr 3  |  Ethics |   📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 5 (6 short videos, 50 min total)</li> <li>[The ethics of data science](http://jtleek.com/ads2020/week-15.html)</li>| new |
+| Apr 8 | Communication | 📹 (Optional but highly recommended) <li>[Calling BS videos](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS) Chapter 6 (6 short videos, 47 min total)</li> <li>[Can you read graphs? Because I can't.](https://www.youtube.com/watch?v=vbDObzI-CTc) by Sabrina (7 min)</li> |   new |
 
 
 ## Reference Material
